@@ -1,0 +1,12 @@
+Z:\VB\Step02_1\obj\x86\Debug\Step02_1.frmName.resources
+Z:\VB\Step02_1\obj\x86\Debug\Step02_1.Resources.resources
+Z:\VB\Step02_1\obj\x86\Debug\Step02_1.vbproj.GenerateResource.Cache
+Z:\VB\Step02_1\bin\Debug\Step02_1.exe
+Z:\VB\Step02_1\bin\Debug\Step02_1.pdb
+Z:\VB\Step02_1\bin\Debug\Step02_1.xml
+Z:\VB\Step02_1\obj\x86\Debug\Step02_1.exe
+Z:\VB\Step02_1\obj\x86\Debug\Step02_1.xml
+Z:\VB\Step02_1\obj\x86\Debug\Step02_1.pdb
+X:\14jy0112\VB\Step02_1\obj\x86\Debug\Step02_1.exe
+X:\14jy0112\VB\Step02_1\obj\x86\Debug\Step02_1.xml
+X:\14jy0112\VB\Step02_1\obj\x86\Debug\Step02_1.pdb

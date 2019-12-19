@@ -1,0 +1,9 @@
+Z:\VB\Step01\bin\Debug\Step01.exe
+Z:\VB\Step01\bin\Debug\Step01.pdb
+Z:\VB\Step01\bin\Debug\Step01.xml
+Z:\VB\Step01\obj\x86\Debug\Step01.frmRocket.resources
+Z:\VB\Step01\obj\x86\Debug\Step01.Resources.resources
+Z:\VB\Step01\obj\x86\Debug\Step01.vbproj.GenerateResource.Cache
+Z:\VB\Step01\obj\x86\Debug\Step01.exe
+Z:\VB\Step01\obj\x86\Debug\Step01.xml
+Z:\VB\Step01\obj\x86\Debug\Step01.pdb

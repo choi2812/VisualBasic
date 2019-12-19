@@ -1,0 +1,3 @@
+Z:\VB\Step06\obj\x86\Debug\Step06.exe
+Z:\VB\Step06\obj\x86\Debug\Step06.xml
+Z:\VB\Step06\obj\x86\Debug\Step06.pdb
