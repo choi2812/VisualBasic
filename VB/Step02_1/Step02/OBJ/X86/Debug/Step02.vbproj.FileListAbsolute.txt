@@ -1,0 +1,9 @@
+Z:\VB\Step02\bin\Debug\Step02.exe
+Z:\VB\Step02\bin\Debug\Step02.pdb
+Z:\VB\Step02\bin\Debug\Step02.xml
+Z:\VB\Step02\obj\x86\Debug\Step02.frmImgChange.resources
+Z:\VB\Step02\obj\x86\Debug\Step02.Resources.resources
+Z:\VB\Step02\obj\x86\Debug\Step02.vbproj.GenerateResource.Cache
+Z:\VB\Step02\obj\x86\Debug\Step02.exe
+Z:\VB\Step02\obj\x86\Debug\Step02.xml
+Z:\VB\Step02\obj\x86\Debug\Step02.pdb

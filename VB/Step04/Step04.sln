@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Step04", "Step04.vbproj", "{724144F2-6BA7-46F8-8D66-75DE470E8BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724144F2-6BA7-46F8-8D66-75DE470E8BDF}.Debug|x86.ActiveCfg = Debug|x86
+		{724144F2-6BA7-46F8-8D66-75DE470E8BDF}.Debug|x86.Build.0 = Debug|x86
+		{724144F2-6BA7-46F8-8D66-75DE470E8BDF}.Release|x86.ActiveCfg = Release|x86
+		{724144F2-6BA7-46F8-8D66-75DE470E8BDF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

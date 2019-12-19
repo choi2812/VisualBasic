@@ -1,0 +1,13 @@
+Z:\VB\Step10\bin\Debug\Step10.exe
+Z:\VB\Step10\bin\Debug\Step10.pdb
+Z:\VB\Step10\bin\Debug\Step10.xml
+Z:\VB\Step10\obj\x86\Debug\Step10.frmSample.resources
+Z:\VB\Step10\obj\x86\Debug\Step10.Resources.resources
+Z:\VB\Step10\obj\x86\Debug\Step10.vbproj.GenerateResource.Cache
+Z:\VB\Step10\obj\x86\Debug\Step10.exe
+Z:\VB\Step10\obj\x86\Debug\Step10.xml
+Z:\VB\Step10\obj\x86\Debug\Step10.pdb
+Z:\VB\Step10\obj\x86\Debug\Step10.frmArrey.resources
+Z:\VB\Step10\obj\x86\Debug\Step10.frmMen.resources
+Z:\VB\Step10\obj\x86\Debug\Step10.frmMaxMin.resources
+Z:\VB\Step10\obj\x86\Debug\Step10.frmSort.resources
