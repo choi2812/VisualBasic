@@ -1,0 +1,12 @@
+Z:\VBDB\Step06\bin\Debug\Step06.exe.config
+Z:\VBDB\Step06\bin\Debug\Step06.exe
+Z:\VBDB\Step06\bin\Debug\Step06.pdb
+Z:\VBDB\Step06\bin\Debug\Step06.xml
+Z:\VBDB\Step06\obj\x86\Debug\Step06.frmUpdate.resources
+Z:\VBDB\Step06\obj\x86\Debug\Step06.Resources.resources
+Z:\VBDB\Step06\obj\x86\Debug\Step06.vbproj.GenerateResource.Cache
+Z:\VBDB\Step06\obj\x86\Debug\Step06.exe
+Z:\VBDB\Step06\obj\x86\Debug\Step06.xml
+Z:\VBDB\Step06\obj\x86\Debug\Step06.pdb
+Z:\VBDB\Step06\obj\x86\Debug\Step06.frmUpdate1.resources
+Z:\VBDB\Step06\obj\x86\Debug\Step06.frmUpdate2.resources

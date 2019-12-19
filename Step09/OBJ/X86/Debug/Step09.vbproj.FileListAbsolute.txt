@@ -1,0 +1,14 @@
+Z:\VBDB\Step09\obj\x86\Debug\Step09.frmDataGridView.resources
+Z:\VBDB\Step09\obj\x86\Debug\Step09.Resources.resources
+Z:\VBDB\Step09\obj\x86\Debug\Step09.vbproj.GenerateResource.Cache
+Z:\VBDB\Step09\bin\Debug\Step09.exe.config
+Z:\VBDB\Step09\bin\Debug\Step09.exe
+Z:\VBDB\Step09\bin\Debug\Step09.pdb
+Z:\VBDB\Step09\bin\Debug\Step09.xml
+Z:\VBDB\Step09\obj\x86\Debug\Step09.exe
+Z:\VBDB\Step09\obj\x86\Debug\Step09.xml
+Z:\VBDB\Step09\obj\x86\Debug\Step09.pdb
+I:\1252private\VBDB\Step09\bin\Debug\Step09.exe.config
+I:\1252private\VBDB\Step09\obj\x86\Debug\Step09.exe
+I:\1252private\VBDB\Step09\obj\x86\Debug\Step09.xml
+I:\1252private\VBDB\Step09\obj\x86\Debug\Step09.pdb

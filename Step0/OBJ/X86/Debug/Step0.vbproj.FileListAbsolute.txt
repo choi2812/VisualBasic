@@ -1,0 +1,9 @@
+Z:\VBDB\Step0\bin\Debug\Step0.exe
+Z:\VBDB\Step0\bin\Debug\Step0.pdb
+Z:\VBDB\Step0\bin\Debug\Step0.xml
+Z:\VBDB\Step0\obj\x86\Debug\Step0.frmTimer.resources
+Z:\VBDB\Step0\obj\x86\Debug\Step0.Resources.resources
+Z:\VBDB\Step0\obj\x86\Debug\Step0.vbproj.GenerateResource.Cache
+Z:\VBDB\Step0\obj\x86\Debug\Step0.exe
+Z:\VBDB\Step0\obj\x86\Debug\Step0.xml
+Z:\VBDB\Step0\obj\x86\Debug\Step0.pdb

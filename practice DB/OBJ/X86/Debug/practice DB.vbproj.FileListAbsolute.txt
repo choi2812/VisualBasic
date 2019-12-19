@@ -1,0 +1,10 @@
+Z:\VBDB\practice DB\bin\Debug\practice DB.exe.config
+Z:\VBDB\practice DB\bin\Debug\practice DB.exe
+Z:\VBDB\practice DB\bin\Debug\practice DB.pdb
+Z:\VBDB\practice DB\bin\Debug\practice DB.xml
+Z:\VBDB\practice DB\obj\x86\Debug\practice_DB.frmCustomer.resources
+Z:\VBDB\practice DB\obj\x86\Debug\practice_DB.Resources.resources
+Z:\VBDB\practice DB\obj\x86\Debug\practice DB.vbproj.GenerateResource.Cache
+Z:\VBDB\practice DB\obj\x86\Debug\practice DB.exe
+Z:\VBDB\practice DB\obj\x86\Debug\practice DB.xml
+Z:\VBDB\practice DB\obj\x86\Debug\practice DB.pdb

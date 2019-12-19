@@ -1,0 +1,12 @@
+Z:\VBDB\step03\obj\x86\Debug\step03.frmSelect.resources
+Z:\VBDB\step03\obj\x86\Debug\step03.Resources.resources
+Z:\VBDB\step03\obj\x86\Debug\step03.vbproj.GenerateResource.Cache
+Z:\VBDB\step03\bin\Debug\step03.exe.config
+Z:\VBDB\step03\bin\Debug\step03.exe
+Z:\VBDB\step03\bin\Debug\step03.pdb
+Z:\VBDB\step03\bin\Debug\step03.xml
+Z:\VBDB\step03\obj\x86\Debug\step03.exe
+Z:\VBDB\step03\obj\x86\Debug\step03.xml
+Z:\VBDB\step03\obj\x86\Debug\step03.pdb
+Z:\VBDB\step03\obj\x86\Debug\step03.frmSelectSerch.resources
+Z:\VBDB\step03\obj\x86\Debug\step03.frmSearch.resources

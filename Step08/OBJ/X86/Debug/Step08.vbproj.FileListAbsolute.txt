@@ -1,0 +1,10 @@
+Z:\VBDB\Step08\bin\Debug\Step08.exe.config
+Z:\VBDB\Step08\bin\Debug\Step08.exe
+Z:\VBDB\Step08\bin\Debug\Step08.pdb
+Z:\VBDB\Step08\bin\Debug\Step08.xml
+Z:\VBDB\Step08\obj\x86\Debug\Step08.frmAdd.resources
+Z:\VBDB\Step08\obj\x86\Debug\Step08.Resources.resources
+Z:\VBDB\Step08\obj\x86\Debug\Step08.vbproj.GenerateResource.Cache
+Z:\VBDB\Step08\obj\x86\Debug\Step08.exe
+Z:\VBDB\Step08\obj\x86\Debug\Step08.xml
+Z:\VBDB\Step08\obj\x86\Debug\Step08.pdb

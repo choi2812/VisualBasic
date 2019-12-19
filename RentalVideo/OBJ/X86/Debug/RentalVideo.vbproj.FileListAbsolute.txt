@@ -1,0 +1,11 @@
+Z:\VBDB\RentalVideo\bin\Debug\RentalVideo.exe
+Z:\VBDB\RentalVideo\bin\Debug\RentalVideo.pdb
+Z:\VBDB\RentalVideo\bin\Debug\RentalVideo.xml
+Z:\VBDB\RentalVideo\obj\x86\Debug\RentalVideo.Resources.resources
+Z:\VBDB\RentalVideo\obj\x86\Debug\RentalVideo.vbproj.GenerateResource.Cache
+Z:\VBDB\RentalVideo\obj\x86\Debug\RentalVideo.exe
+Z:\VBDB\RentalVideo\obj\x86\Debug\RentalVideo.xml
+Z:\VBDB\RentalVideo\obj\x86\Debug\RentalVideo.pdb
+Z:\VBDB\RentalVideo\obj\x86\Debug\RentalVideo.frmRentalLoginSystem.resources
+Z:\VBDB\RentalVideo\obj\x86\Debug\RentalVideo.frmRentalSystem.resources
+Z:\VBDB\RentalVideo\bin\Debug\RentalVideo.exe.config

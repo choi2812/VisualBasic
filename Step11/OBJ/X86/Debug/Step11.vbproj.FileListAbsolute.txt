@@ -1,0 +1,10 @@
+Z:\VBDB\Step11\obj\x86\Debug\Step11.frmTestDate.resources
+Z:\VBDB\Step11\obj\x86\Debug\Step11.Resources.resources
+Z:\VBDB\Step11\obj\x86\Debug\Step11.vbproj.GenerateResource.Cache
+Z:\VBDB\Step11\bin\Debug\Step11.exe.config
+Z:\VBDB\Step11\bin\Debug\Step11.exe
+Z:\VBDB\Step11\bin\Debug\Step11.pdb
+Z:\VBDB\Step11\bin\Debug\Step11.xml
+Z:\VBDB\Step11\obj\x86\Debug\Step11.exe
+Z:\VBDB\Step11\obj\x86\Debug\Step11.xml
+Z:\VBDB\Step11\obj\x86\Debug\Step11.pdb

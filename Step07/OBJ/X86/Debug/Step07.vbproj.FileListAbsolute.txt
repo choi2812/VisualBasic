@@ -1,0 +1,12 @@
+Z:\VBDB\Step07\obj\x86\Debug\Step07.frmModify.resources
+Z:\VBDB\Step07\obj\x86\Debug\Step07.Resources.resources
+Z:\VBDB\Step07\obj\x86\Debug\Step07.vbproj.GenerateResource.Cache
+Z:\VBDB\Step07\bin\Debug\Step07.exe.config
+Z:\VBDB\Step07\bin\Debug\Step07.exe
+Z:\VBDB\Step07\bin\Debug\Step07.pdb
+Z:\VBDB\Step07\bin\Debug\Step07.xml
+Z:\VBDB\Step07\obj\x86\Debug\Step07.exe
+Z:\VBDB\Step07\obj\x86\Debug\Step07.xml
+Z:\VBDB\Step07\obj\x86\Debug\Step07.pdb
+Z:\VBDB\Step07\obj\x86\Debug\Step07.frmDelete1.resources
+Z:\VBDB\Step07\obj\x86\Debug\Step07.frmDelete2.resources

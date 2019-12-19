@@ -1,0 +1,11 @@
+Z:\VBDB\Step2\bin\Debug\Step2.exe.config
+Z:\VBDB\Step2\bin\Debug\Step2.exe
+Z:\VBDB\Step2\bin\Debug\Step2.pdb
+Z:\VBDB\Step2\bin\Debug\Step2.xml
+Z:\VBDB\Step2\obj\x86\Debug\Step2.Resources.resources
+Z:\VBDB\Step2\obj\x86\Debug\Step2.vbproj.GenerateResource.Cache
+Z:\VBDB\Step2\obj\x86\Debug\Step2.exe
+Z:\VBDB\Step2\obj\x86\Debug\Step2.xml
+Z:\VBDB\Step2\obj\x86\Debug\Step2.pdb
+Z:\VBDB\Step2\obj\x86\Debug\Step2.frmStaffDGV.resources
+Z:\VBDB\Step2\obj\x86\Debug\Step2.frmStaffDET.resources

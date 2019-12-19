@@ -1,0 +1,10 @@
+Z:\VBDB\JM_Customer\bin\Debug\JM_Customer.exe.config
+Z:\VBDB\JM_Customer\bin\Debug\JM_Customer.exe
+Z:\VBDB\JM_Customer\bin\Debug\JM_Customer.pdb
+Z:\VBDB\JM_Customer\bin\Debug\JM_Customer.xml
+Z:\VBDB\JM_Customer\obj\x86\Debug\JM_Customer.Form1.resources
+Z:\VBDB\JM_Customer\obj\x86\Debug\JM_Customer.Resources.resources
+Z:\VBDB\JM_Customer\obj\x86\Debug\JM_Customer.vbproj.GenerateResource.Cache
+Z:\VBDB\JM_Customer\obj\x86\Debug\JM_Customer.exe
+Z:\VBDB\JM_Customer\obj\x86\Debug\JM_Customer.xml
+Z:\VBDB\JM_Customer\obj\x86\Debug\JM_Customer.pdb
